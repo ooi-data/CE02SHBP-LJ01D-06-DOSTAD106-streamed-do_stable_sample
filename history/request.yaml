@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE02SHBP-LJ01D-06-DOSTAD106-streamed-do_stable_sample
-last_request: '2021-08-01T01:23:05.471414Z'
+last_request: '2021-09-17T23:19:08.773503Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHBP-LJ01D-06-DOSTAD106-streamed-do_stable_sample/main/history/response.json
-status: failed
+status: pending
