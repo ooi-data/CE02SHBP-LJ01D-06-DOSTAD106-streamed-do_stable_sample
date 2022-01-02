@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHBP-LJ01D-06-DOSTAD106-streamed-do_stable_sample
 data_stream: CE02SHBP-LJ01D-06-DOSTAD106-streamed-do_stable_sample
 end_date: '2022-01-01T02:09:56.862Z'
-last_updated: '2022-01-02T03:16:14.182790Z'
+last_updated: '2022-01-02T03:28:23.973762'
 start_date: '2018-11-07T23:01:42.797Z'
-status: pending
+status: success
